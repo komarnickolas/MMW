@@ -94,11 +94,6 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-.double-space {
-    line-height: 2;
-    position: relative;
-    top: -.5em;
-}
 #paragraph{
     text-align: left;
 }
@@ -126,8 +121,12 @@ body, html {
     height: 100%;
     line-height: 1.8;
     color: black;
+    background-color: #cedbdf !important;
 }
-
+img{
+    width: 100%;
+    height: 250px;
+}
 .bgimg-1, .bgimg-2, .bgimg-3 {
     background-attachment: fixed;
     background-position: center;
@@ -136,7 +135,8 @@ body, html {
 }
 
 .bgimg-1 {
-    min-height: 50%;
+    min-height: 100%;
+    background-image: url("../img/amCharts.png");
 }
 .member{
     padding: 50px 50px 50px 50px;
