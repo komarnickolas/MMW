@@ -1,4 +1,4 @@
-@import "bourbon";
+@import "bourbon/bourbon";
 $background: #333333;
 $hover: #69bccc;
 nav {
@@ -27,7 +27,7 @@ nav {
         text-transform: uppercase;
         font-size: 14px;
         position: relative;
-        @include transition(color, .25s);
+        @include transition(color .25s);
         &:hover {
           color: $hover;
           &:before {
@@ -54,7 +54,7 @@ nav {
           height: 3px;
           width: 0;
           background: $background;
-          @include transition(width, .25s);
+          @include transition(width .25s);
         }
       }
       &.last > a:after, &:last-child > a:after {
