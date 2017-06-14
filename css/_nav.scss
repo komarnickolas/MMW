@@ -1,12 +1,6 @@
+@import "bourbon";
 $background: #333333;
 $hover: #69bccc;
-@mixin transition($color, $seconds) {
-  -webkit-transition: $color $seconds;
-  -moz-transition: $color $seconds;
-  -ms-transition: $color $seconds;
-  -o-transition: $color $seconds;
-  transition: $color $seconds;
-}
 nav {
   position: fixed;
   top: 0;
