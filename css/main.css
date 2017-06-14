@@ -174,14 +174,16 @@ body, html {
 
 .team-member {
   margin: 15px 0;
-  padding: 10px; }
+    padding: 0;
+}
   .team-member figure {
     position: relative;
     overflow: hidden;
     padding: 0;
     margin: 0; }
     .team-member figure img {
-      min-width: 100%; }
+        min-width: 130%;
+    }
   .team-member figcaption {
       padding: 20px;
     color: transparent;
@@ -198,7 +200,8 @@ body, html {
     -moz-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out; }
     .team-member figcaption p {
-      font-size: 16px; }
+        font-size: 14px;
+    }
     .team-member figcaption ul {
       list-style: none;
       margin: 0;

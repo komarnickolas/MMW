@@ -1,11 +1,14 @@
 @import "nav";
 @import "bourbon/bourbon";
-#paragraph{
+
+#paragraph {
   text-align: left;
 }
-li{
+
+li {
   font-weight: bold;
 }
+
 a {
   color: #333333;
   text-decoration: none;
@@ -18,13 +21,18 @@ a {
     color: #69bccc;
   }
 }
-body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif;}
+
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: "Lato", sans-serif;
+}
+
 body, html {
   height: 100%;
   line-height: 1.8;
   color: black;
   background-color: #cedbdf !important;
 }
+
 .bgimg-1, .bgimg-2, .bgimg-3 {
   background-attachment: fixed;
   background-position: center;
@@ -36,6 +44,7 @@ body, html {
   min-height: 100%;
   background-image: url("../img/amCharts.png");
 }
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
@@ -109,22 +118,24 @@ body, html {
 .clearfix:after {
   clear: both;
 }
-.container{
-  width:94% !important;
+
+.container {
+  width: 94% !important;
 }
+
 .team-member {
   margin: 15px 0;
-  padding: 10px;
+  padding: 0;
   figure {
     position: relative;
     overflow: hidden;
     padding: 0;
     margin: 0;
     img {
-      min-width: 100%;
+      min-width: 130%;
     }
   }
-  figcaption{
+  figcaption {
     padding: 20px;
     color: transparent;
     background-color: transparent;
@@ -138,12 +149,12 @@ body, html {
     visibility: hidden;
     @include transition(all 0.3s ease-in-out);
     p {
-      font-size: 16px;
+      font-size: 14px;
     }
     ul {
-       list-style: none;
-       margin: 0;
-       padding: 0;
+      list-style: none;
+      margin: 0;
+      padding: 0;
       visibility: visible;
       @include transition(all 0.1s ease-in-out);
       li {
@@ -156,7 +167,7 @@ body, html {
     margin: 10px 0 0;
     padding: 0;
   }
-  figure{
+  figure {
     &:hover figcaption {
       visibility: visible;
       color: #fff;
