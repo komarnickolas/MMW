@@ -25,10 +25,6 @@ body, html {
   color: black;
   background-color: #cedbdf !important;
 }
-img{
-  width: 100%;
-  height: 250px;
-}
 .bgimg-1, .bgimg-2, .bgimg-3 {
   background-attachment: fixed;
   background-position: center;
@@ -39,13 +35,6 @@ img{
 .bgimg-1 {
   min-height: 100%;
   background-image: url("../img/amCharts.png");
-}
-.member{
-  img {
-    float: left;
-    width: 20%;
-    height: 20%;
-  }
 }
 /* ==========================================================================
    Helper classes
@@ -119,4 +108,72 @@ img{
 
 .clearfix:after {
   clear: both;
+}
+.container{
+  width:94% !important;
+}
+.team-member {
+  margin: 15px 0;
+  padding: 10px;
+  figure {
+    position: relative;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    img {
+      min-width: 100%;
+    }
+  }
+  figcaption{
+    padding: 50px;
+    color: transparent;
+    background-color: transparent;
+    position: absolute;
+    z-index: 996;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+    @include transition(all 0.3s ease-in-out);
+    p {
+      font-size: 16px;
+    }
+    ul {
+       list-style: none;
+       margin: 0;
+       padding: 0;
+      visibility: visible;
+      @include transition(all 0.1s ease-in-out);
+      li {
+        display: inline-block;
+        padding: 10px;
+      }
+    }
+  }
+  h4 {
+    margin: 10px 0 0;
+    padding: 0;
+  }
+  figure{
+    &:hover figcaption {
+      visibility: visible;
+      color: #fff;
+      background: #69bccc;
+      height: 100%;
+      @include transition(all 0.3s ease-in-out);
+      ul li a:hover {
+        color: rgba(49, 49, 49, .97);
+      }
+    }
+    img {
+      @include transform(scale(1) rotate(0) translateY(0));
+      @include transition(all 0.4s ease-in-out);
+      &:hover img {
+        @include transform(scale(1.1) rotate(1deg) translateY(12px));
+        @include transition(all 0.4s ease-in-out);
+      }
+    }
+  }
 }

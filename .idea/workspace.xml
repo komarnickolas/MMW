@@ -2,89 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="439c5df8-bc58-429c-b5ad-55822097bf36" name="Default" comment="Updated style, changed to one page">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/_bourbon-deprecate.scss" afterPath="$PROJECT_DIR$/css/bourbon/_bourbon-deprecate.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/_bourbon-deprecated-upcoming.scss" afterPath="$PROJECT_DIR$/css/bourbon/_bourbon-deprecated-upcoming.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/_bourbon.scss" afterPath="$PROJECT_DIR$/css/bourbon/_bourbon.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_border-color.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_border-color.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_border-radius.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_border-radius.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_border-style.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_border-style.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_border-width.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_border-width.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_buttons.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_buttons.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_clearfix.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_clearfix.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_ellipsis.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_ellipsis.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_font-stacks.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_font-stacks.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_hide-text.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_hide-text.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_margin.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_margin.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_padding.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_padding.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_position.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_position.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_prefixer.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_prefixer.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_retina-image.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_retina-image.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_size.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_size.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_text-inputs.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_text-inputs.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_timing-functions.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_timing-functions.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_triangle.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_triangle.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/addons/_word-wrap.scss" afterPath="$PROJECT_DIR$/css/bourbon/addons/_word-wrap.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_animation.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_animation.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_appearance.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_appearance.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_backface-visibility.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_backface-visibility.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_background-image.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_background-image.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_background.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_background.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_border-image.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_border-image.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_calc.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_calc.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_columns.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_columns.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_filter.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_filter.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_flex-box.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_flex-box.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_font-face.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_font-face.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_font-feature-settings.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_font-feature-settings.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_hidpi-media-query.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_hidpi-media-query.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_hyphens.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_hyphens.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_image-rendering.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_image-rendering.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_keyframes.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_keyframes.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_linear-gradient.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_linear-gradient.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_perspective.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_perspective.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_placeholder.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_placeholder.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_radial-gradient.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_radial-gradient.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_selection.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_selection.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_text-decoration.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_text-decoration.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_transform.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_transform.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_transition.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_transition.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/css3/_user-select.scss" afterPath="$PROJECT_DIR$/css/bourbon/css3/_user-select.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_assign-inputs.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_assign-inputs.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_contains-falsy.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_contains-falsy.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_contains.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_contains.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_is-length.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_is-length.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_is-light.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_is-light.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_is-number.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_is-number.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_is-size.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_is-size.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_modular-scale.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_modular-scale.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_px-to-em.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_px-to-em.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_px-to-rem.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_px-to-rem.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_shade.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_shade.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_strip-units.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_strip-units.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_tint.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_tint.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_transition-property-name.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_transition-property-name.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/functions/_unpack.scss" afterPath="$PROJECT_DIR$/css/bourbon/functions/_unpack.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_convert-units.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_convert-units.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_directional-values.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_directional-values.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_font-source-declaration.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_font-source-declaration.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_gradient-positions-parser.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_gradient-positions-parser.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_linear-angle-parser.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_linear-angle-parser.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_linear-gradient-parser.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_linear-gradient-parser.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_linear-positions-parser.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_linear-positions-parser.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_linear-side-corner-parser.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_linear-side-corner-parser.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_radial-arg-parser.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_radial-arg-parser.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_radial-gradient-parser.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_radial-gradient-parser.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_radial-positions-parser.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_radial-positions-parser.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_render-gradients.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_render-gradients.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_shape-size-stripper.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_shape-size-stripper.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/helpers/_str-to-num.scss" afterPath="$PROJECT_DIR$/css/bourbon/helpers/_str-to-num.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/settings/_asset-pipeline.scss" afterPath="$PROJECT_DIR$/css/bourbon/settings/_asset-pipeline.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/settings/_deprecation-warnings.scss" afterPath="$PROJECT_DIR$/css/bourbon/settings/_deprecation-warnings.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/settings/_prefixer.scss" afterPath="$PROJECT_DIR$/css/bourbon/settings/_prefixer.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bourbon/settings/_px-to-em.scss" afterPath="$PROJECT_DIR$/css/bourbon/settings/_px-to-em.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/Kurt.jpg" afterPath="$PROJECT_DIR$/img/Kurt.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/_nav.scss" afterPath="$PROJECT_DIR$/css/_nav.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css.map" afterPath="$PROJECT_DIR$/css/main.css.map" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.scss" afterPath="$PROJECT_DIR$/css/main.scss" />
@@ -106,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            <state relative-caret-position="338">
+              <caret line="43" column="50" lean-forward="true" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
+            <state relative-caret-position="308">
+              <caret line="130" column="23" lean-forward="true" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -129,7 +48,7 @@
       <file leaf-file-name="_nav.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/_nav.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-546">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -171,8 +90,8 @@
         <option value="$PROJECT_DIR$/css/_nav.css" />
         <option value="$PROJECT_DIR$/css/_nav.scss" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -201,6 +120,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -223,30 +144,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main.scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MMW" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MMW" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_nav.scss" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -265,8 +164,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -398,7 +295,8 @@
       <workItem from="1497387061589" duration="6096000" />
       <workItem from="1497393896498" duration="8000" />
       <workItem from="1497396564937" duration="11000" />
-      <workItem from="1497455195543" duration="12920000" />
+      <workItem from="1497455195543" duration="12938000" />
+      <workItem from="1497473987471" duration="3611000" />
     </task>
     <task id="LOCAL-00001" summary="Updated style, changed to multiple pages">
       <created>1497360802359</created>
@@ -421,11 +319,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497461891535</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated style, changed to one page">
+      <created>1497472864812</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1497472864812</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33448000" />
+    <option name="totallyTimeSpent" value="37077000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -438,24 +343,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14583333" sideWeight="0.495585" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10564853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10537634" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14767933" sideWeight="0.50441504" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -475,22 +381,8 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html" />
+    <entry file="file://$PROJECT_DIR$/team.html" />
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3744">
@@ -508,22 +400,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html" />
+    <entry file="file://$PROJECT_DIR$/team.html" />
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3744">
@@ -541,23 +419,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html" />
     <entry file="file://$PROJECT_DIR$/manufacturers.html" />
-    <entry file="file://$PROJECT_DIR$/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/team.html" />
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3744">
@@ -574,14 +438,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html" />
     <entry file="file://$PROJECT_DIR$/manufacturers.html" />
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -591,14 +448,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="49" lean-forward="true" selection-start-line="26" selection-start-column="49" selection-end-line="26" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/team.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -607,14 +457,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="18" lean-forward="false" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html" />
     <entry file="file://$PROJECT_DIR$/manufacturers.html" />
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -624,14 +467,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/team.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -640,14 +476,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="18" lean-forward="true" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html" />
     <entry file="file://$PROJECT_DIR$/manufacturers.html" />
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -657,14 +486,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="44" lean-forward="false" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/team.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -673,14 +495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="14" lean-forward="true" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/team.html" />
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2448">
@@ -689,14 +504,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="19" lean-forward="false" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -742,27 +550,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="113" column="20" lean-forward="false" selection-start-line="112" selection-start-column="24" selection-end-line="113" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/team.html" />
+    <entry file="file://$PROJECT_DIR$/about.html" />
     <entry file="file://$PROJECT_DIR$/css/_nav.css.map">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="sourcemapFileViewerProvider">
@@ -805,30 +598,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/_nav.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-546">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="48" column="1" lean-forward="false" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="338">
+          <caret line="43" column="50" lean-forward="true" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="130" column="23" lean-forward="true" selection-start-line="130" selection-start-column="23" selection-end-line="130" selection-end-column="23" />
           <folding />
         </state>
       </provider>
