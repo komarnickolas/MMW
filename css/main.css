@@ -219,7 +219,7 @@ body, html {
   .team-member figure:hover figcaption {
     visibility: visible;
     color: #fff;
-    background: #69bccc;
+      background: rgba(105, 188, 204, 0.26);
     height: 100%;
     -webkit-transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
