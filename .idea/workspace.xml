@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="439c5df8-bc58-429c-b5ad-55822097bf36" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css.map" afterPath="$PROJECT_DIR$/css/main.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="132" column="87" lean-forward="false" selection-start-line="132" selection-start-column="87" selection-end-line="132" selection-end-column="87" />
+            <state relative-caret-position="390">
+              <caret line="54" column="86" lean-forward="true" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
               <folding>
                 <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -271,7 +268,7 @@
       <workItem from="1497473987471" duration="7792000" />
       <workItem from="1497482707896" duration="188000" />
       <workItem from="1497483000719" duration="3000" />
-      <workItem from="1497541301605" duration="2105000" />
+      <workItem from="1497541301605" duration="4103000" />
     </task>
     <task id="LOCAL-00001" summary="Updated style, changed to multiple pages">
       <created>1497360802359</created>
@@ -350,11 +347,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497482881024</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated style">
+      <created>1497547200493</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1497547200493</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43554000" />
+    <option name="totallyTimeSpent" value="45552000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -649,8 +653,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="132" column="87" lean-forward="false" selection-start-line="132" selection-start-column="87" selection-end-line="132" selection-end-column="87" />
+        <state relative-caret-position="390">
+          <caret line="54" column="86" lean-forward="true" selection-start-line="54" selection-start-column="86" selection-end-line="54" selection-end-column="86" />
           <folding>
             <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
