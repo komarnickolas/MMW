@@ -126,6 +126,9 @@ p {
     }
 }
 
+#markets_covered {
+    text-align: left;
+}
 .intro {
     display: table;
     width: 100%;
