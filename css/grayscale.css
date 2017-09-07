@@ -133,9 +133,10 @@ p {
     display: table;
     width: 100%;
     height: auto;
+    padding: 100px 0;
     text-align: center;
     color: black;
-    background: url(../img/amCharts.png) no-repeat;
+    background: url(../img/map.png) no-repeat bottom center scroll;
     background-color: black;
     -webkit-background-size: cover;
     -moz-background-size: cover;
