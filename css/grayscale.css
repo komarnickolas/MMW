@@ -22,7 +22,6 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0 0 35px;
     text-transform: uppercase;
     font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
@@ -129,12 +128,20 @@ p {
 #markets_covered {
     text-align: left;
 }
+
+#markets_covered li {
+    margin-left: -20px;
+    text-align: left;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
 .intro {
     display: table;
     width: 100%;
     height: auto;
     padding: 100px 0;
-    text-align: center;
+    text-align: justify;
     color: black;
     background: url(../img/map.png) no-repeat bottom center scroll;
     background-color: black;
