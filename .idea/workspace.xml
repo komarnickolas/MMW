@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="439c5df8-bc58-429c-b5ad-55822097bf36" name="Default" comment="Updated style">
+    <list default="true" id="439c5df8-bc58-429c-b5ad-55822097bf36" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/grayscale.css" afterPath="$PROJECT_DIR$/css/grayscale.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -72,8 +71,8 @@
       <file leaf-file-name="grayscale.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/grayscale.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="137" column="8" lean-forward="true" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
+            <state relative-caret-position="372">
+              <caret line="145" column="45" lean-forward="false" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -332,7 +331,7 @@
       <workItem from="1504563287090" duration="61000" />
       <workItem from="1504569326072" duration="2000" />
       <workItem from="1504646548595" duration="1581000" />
-      <workItem from="1504826275362" duration="1284000" />
+      <workItem from="1504826275362" duration="1387000" />
     </task>
     <task id="LOCAL-00001" summary="Updated style, changed to multiple pages">
       <created>1497360802359</created>
@@ -467,11 +466,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504826296861</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Updated style">
+      <created>1504827563618</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1504827563618</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76576000" />
+    <option name="totallyTimeSpent" value="76679000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -831,8 +837,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/grayscale.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="137" column="8" lean-forward="true" selection-start-line="137" selection-start-column="8" selection-end-line="137" selection-end-column="8" />
+        <state relative-caret-position="372">
+          <caret line="145" column="45" lean-forward="false" selection-start-line="145" selection-start-column="45" selection-end-line="145" selection-end-column="45" />
           <folding />
         </state>
       </provider>
