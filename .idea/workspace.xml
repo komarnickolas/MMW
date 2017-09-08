@@ -58,8 +58,8 @@
       <file leaf-file-name="grayscale.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/grayscale.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="170" column="19" lean-forward="false" selection-start-line="170" selection-start-column="19" selection-end-line="170" selection-end-column="19" />
+            <state relative-caret-position="299">
+              <caret line="145" column="67" lean-forward="false" selection-start-line="145" selection-start-column="67" selection-end-line="145" selection-end-column="67" />
               <folding />
             </state>
           </provider>
@@ -320,7 +320,7 @@
       <workItem from="1504821922296" duration="5540000" />
       <workItem from="1504806253648" duration="3476000" />
       <workItem from="1504900129624" duration="420000" />
-      <workItem from="1504907122214" duration="1427000" />
+      <workItem from="1504907122214" duration="1589000" />
     </task>
     <task id="LOCAL-00001" summary="Updated style, changed to multiple pages">
       <created>1497360802359</created>
@@ -497,11 +497,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504908482595</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Updated style">
+      <created>1504908552946</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1504908552946</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78122000" />
+    <option name="totallyTimeSpent" value="78284000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -822,8 +829,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/grayscale.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="170" column="19" lean-forward="false" selection-start-line="170" selection-start-column="19" selection-end-line="170" selection-end-column="19" />
+        <state relative-caret-position="299">
+          <caret line="145" column="67" lean-forward="false" selection-start-line="145" selection-start-column="67" selection-end-line="145" selection-end-column="67" />
           <folding />
         </state>
       </provider>
