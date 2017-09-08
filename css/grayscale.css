@@ -134,6 +134,7 @@ p {
     text-align: left;
     font-size: 20px;
     line-height: 1.5;
+    font-weight: bold;
 }
 
 .intro {
@@ -143,7 +144,7 @@ p {
     padding: 100px 0;
     text-align: justify;
     color: black;
-    background: url(../img/map.png) no-repeat bottom center scroll;
+    background: url(../img/map.jpg) no-repeat bottom center scroll;
     background-color: black;
     -webkit-background-size: cover;
     -moz-background-size: cover;
