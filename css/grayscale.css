@@ -318,4 +318,9 @@ li {
 
 #manufacturers {
     margin-top: 50px;
+    text-align: center;
+}
+
+#manufacturers_links li {
+    text-align: center;
 }
