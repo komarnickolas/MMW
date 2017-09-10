@@ -134,17 +134,16 @@ p {
     text-align: left;
     font-size: 20px;
     line-height: 1.5;
+    font-weight: bold;
 }
 
 .intro {
     display: table;
     width: 100%;
     height: auto;
-    padding: 100px 0;
     text-align: justify;
     color: black;
-    background: url(../img/map.png) no-repeat bottom center scroll;
-    background-color: black;
+    background: url(../img/map.jpg) no-repeat bottom center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -319,8 +318,9 @@ li {
 
 #manufacturers {
     margin-top: 50px;
+    text-align: center;
 }
 
-#manufacturers_links p, h2 {
+#manufacturers_links li {
     text-align: center;
 }
