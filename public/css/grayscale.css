@@ -109,7 +109,6 @@ p {
 
 @media (min-width: 1300px) {
     .navbar-custom {
-        padding: 20px 0;
         border-bottom: none;
         letter-spacing: 1px;
         background: transparent;
@@ -156,7 +155,6 @@ p {
 }
 
 .intro .intro-body .brand-heading {
-    margin-top: 50px;
     font-size: 30px;
 }
 
@@ -171,7 +169,6 @@ p {
     }
 
     .intro .intro-body .brand-heading {
-        margin-top: 150px;
         font-size: 30px;
     }
 
