@@ -155,7 +155,8 @@ p {
 }
 
 .intro .intro-body .brand-heading {
-    font-size: 30px;
+    font-size: 28px;
+    margin-top: 60px;
 }
 
 .intro .intro-body .intro-text {
